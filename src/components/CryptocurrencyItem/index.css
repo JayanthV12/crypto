@@ -1,0 +1,42 @@
+/* Write your CSS code here */
+.currency1 {
+  border-width: 3px;
+  border-radius: 20px;
+  border-color: #00e7ff;
+  width: 800px;
+  text-align: center;
+}
+.currency-header1 {
+  height: 80px;
+  background-color: black;
+  padding: 12px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.currency-type {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.image-container {
+  display: flex;
+  flex-direction: row;
+}
+.image {
+  height: 40px;
+  width: 40px;
+  margin-right: 12px;
+}
+.para {
+  color: white;
+  font-family: 'Roboto';
+  font-size: 24px;
+}
+
+.para1 {
+  color: white;
+  font-family: 'Roboto';
+  font-size: 24px;
+  margin-right: 20px;
+}

@@ -1,0 +1,50 @@
+/* Write your CSS code here */
+.crypto-container {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  align-items: center;
+}
+.crypto-img {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 36px;
+  color: #00e7ff;
+}
+.currency {
+  border-width: 3px;
+  border-radius: 20px;
+  border-color: #00e7ff;
+  width: 800px;
+  text-align: center;
+}
+.currency-header {
+  height: 80px;
+  background-color: #092e33;
+  padding: 12px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.currency-type {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.para {
+  color: white;
+  font-family: 'Roboto';
+  font-size: 24px;
+}
+
+.para1 {
+  color: white;
+  font-family: 'Roboto';
+  font-size: 24px;
+  margin-right: 20px;
+}
